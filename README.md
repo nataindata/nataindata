@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **new pet project for you**
 
-- 👯 I’m looking to collaboration on **Databricks**
+- 👯 I’m looking for collaboration on **Databricks**
 
 - 📫 How to reach me **nataindata@gmail.com**
 
